@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sayali0897
 - 👀 I’m interested in data analysis, business intelligence, and leveraging data to drive business decisions.
-- 🌱 I’m gained knowledge in advanced data modeling, machine learning, and enhancing my skills in Python and R.
+- 🌱 I have gained knowledge in advanced data modeling, machine learning, and enhancing my skills in Python and R.
 - 💞️ I’m looking to collaborate on data analytics projects, Power BI and Tableau dashboards, and any initiatives involving MySQL and Excel.
 - 📫 How to reach me: mailid:- manesayalisrm@gmail.com
 - 😄 Pronouns: She/Her
